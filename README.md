@@ -13,11 +13,11 @@ NOTE:Implementation does'nt work for overlapped events.
 
 Developed By
 
-Srikanth Goplaudu Roopa
+Srikanth Gopaludu Roopa
 
 License
 
-Copyright 2012 Srikanth Goplaudu Roopa
+Copyright 2012 Srikanth Gopaludu Roopa
 
 
 Licensed under the Apache License, Version 2.0 (the "License");
